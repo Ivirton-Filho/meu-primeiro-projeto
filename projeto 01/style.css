@@ -1,0 +1,71 @@
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    font-weight: normal;
+    line-height: 56px;
+    margin-bottom: 32px;
+
+    
+}
+
+h1 span /* letra em amarela que tem que ser amarelo*/  {
+font-weight: bold;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+font-size: 14px;
+line-height: 28px;
+}
+a {
+    font-family: 'Open Sans', sans-serif; /* parte de fonte */ 
+font-size: 14px;
+color: #FF9900;
+margin-left: 28px;
+text-align: center;
+margin-bottom: 33px;
+}
+/*linha em cima dos links */
+#line {
+    width: 568.001px;
+height: 1px;
+    border: #1267bb;
+    margin: auto;
+}
+
+/* parte de cor*/
+
+span {
+color: #FF9900 ;
+}
+
+
+p {
+    color: #7D7987;
+}
+
+
+body {
+    text-align: center ;
+}
+
+/*parte das linhas e espaçamento*/
+
+#hero {
+    width: 592px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 72px;
+}
+#hero img {
+    margin-bottom: 72px;
+    margin-top: 0px;
+} /* imagem presente na div hero*/ 
+
+
+
+#balls {
+  position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
